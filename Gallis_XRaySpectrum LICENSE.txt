@@ -1,0 +1,5 @@
+Gallis, Michael. X-Ray Spectrum Model. Computer software. 2014. Java (JRE) 1.6. 1 Apr. 2022
+<https://www.compadre.org/Repository/document/ServeFile.cfm?ID=13241&DocID=3775>.
+https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+https://advlabs.aapt.org/items/detail.cfm?ID=13241
