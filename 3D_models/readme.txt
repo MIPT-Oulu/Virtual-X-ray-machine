@@ -1,0 +1,1 @@
+This is where the 3d models are located. They are too big to be downloaded into github
